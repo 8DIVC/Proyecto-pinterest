@@ -10,7 +10,7 @@
     bottom: 20px;
 }
 
-#footer {
+.dropdown-toggle2 {
     border-radius: 50%;
     border: white;
     width: 60px;
@@ -23,14 +23,13 @@
     animation-timing-function: ease;
 }
 
-#footer img {
-    width: 25px;
+.dropdown-toggle2 img {
+   width: 25px;
     height: 30px;
     object-fit: contain;
 }
 
-#footer1 {
-    
+.dropdown-menu {
     width: 400px;
     height: 200px;
     border-radius: 15px;
